@@ -16,5 +16,5 @@ subtitle: Why you'd want to go on a date with me
 
 * I currently live near Nantes with my girlfriend, and soon with my daughter.
 
-#Contact
+# Contact
 You can email me or find me on Twitter if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!
