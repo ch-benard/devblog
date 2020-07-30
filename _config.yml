@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Tips and tricks for my work as a developer
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Tips and tricks for my work as a developer
 
 # Your name to show in the footer
-author: Some Person
+author: Christophe BENARD
 
 # --- List of links in the navigation bar --- #
 
@@ -168,7 +168,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
