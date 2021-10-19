@@ -14,7 +14,7 @@ subtitle: Why you'd want to go on a date with me
 
 * Grew up in Noth of France; worked in Montpellier (south) where I spent 14 years; moved to Nantes in 2014.
 
-* I currently live near Nantes with my girlfriend, and soon with my daughter.
+* I currently live near Nantes with my girlfriend, and my young daughter.
 
 # Contact
 You can email me or find me on Twitter if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!
